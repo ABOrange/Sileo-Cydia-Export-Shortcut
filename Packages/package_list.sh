@@ -2,8 +2,7 @@
 
 #!/bin/bash
 now=$(date +"%m/%d/%Y %H:%M:%S")
-echo "Package list created time: $now"
-echo ""
+echo -e "Package list\n$now\n"
 unsortedList=`
 var=0
 cat /Library/dpkg/status | while read line

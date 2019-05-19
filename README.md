@@ -6,4 +6,5 @@
 
 	* If it's not working, change it to "22,22222" in OpenSSH toggle and also "22222" in shortcut.
 ## Download
+Latest version: v1.4
 [Download from RoutineHub](https://routinehub.co/shortcut/2601)
